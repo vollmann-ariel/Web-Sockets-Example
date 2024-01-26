@@ -105,8 +105,8 @@ void setup() {
     server.begin();
 
     // Add service to MDNS
-    MDNS.addService("http", "tcp", 80);
-    MDNS.addService("ws", "tcp", 81);
+//    MDNS.addService("http", "tcp", 80);
+//    MDNS.addService("ws", "tcp", 81);
 
     digitalWrite(LED_RED, 0);
     digitalWrite(LED_GREEN, 0);
