@@ -1,1 +1,1 @@
-Web sockets example to control three analog outputs
+# *Web sockets example analog output control*
